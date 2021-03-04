@@ -19,7 +19,7 @@
         "zendframework/zendxml": "1.2.0"
     },
     "require": {
-        "php": "^8.0.0"
+        "php": "8.0.*"
     },
     "require-dev": {
         "zendframework/zend-coding-standard": "~1.0.0",
