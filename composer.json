@@ -16,7 +16,7 @@
         "forum": "https://discourse.zendframework.com/c/questions/components"
     },
     "replace": {
-        "zendframework/zend-xml": "1.2.0"
+        "zendframework/zendxml": "1.2.0"
     },
     "require": {
         "php": "^8.0.0"
