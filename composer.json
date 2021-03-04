@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zendxml",
+    "name": "focus-camera/zend-xml",
     "description": "Utility library for XML usage, best practices, and security in PHP",
     "license": "BSD-3-Clause",
     "keywords": [
